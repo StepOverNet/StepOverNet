@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to cross the border
 - 💞️ I’m looking to collaborate on random stuff
 - 📫 You can reach me at stepover.net@gmail.com
-- 💻 I like to create basic random stuff, By any means
+- 💻 I like to create and modify random stuff, By any means
 
 <!---
 StepOverNet/StepOverNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
